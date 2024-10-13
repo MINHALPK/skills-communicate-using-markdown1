@@ -1,7 +1,9 @@
-<header>
+<This is Python version 3.14.0 alpha >
 
 <!--
-  <<< Author notes: Course header >>>
+  Copyright © 2001-2024 Python Software Foundation. All rights reserved.
+
+See the end of this file for further copyright and license information.<<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
